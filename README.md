@@ -25,8 +25,8 @@ Focused on growing toward junior technical support / internal IT / junior web ro
 
 ## Professional Experience
 
-**CRIF Japan** — Web Support (Internal)
-Contributed to the maintenance and content management of the CRIF Japan website using an internal CMS platform. Web analytics monitoring via Matomo.
+**CRIF Japan** — Web Development (Internal)
+Built the CRIF Japan website from scratch using an internal proprietary CMS platform. Web analytics monitoring via Matomo.
 🔗 [crif-jp.com/en](https://www.crif-jp.com/en/)
 
 ## Currently Learning
