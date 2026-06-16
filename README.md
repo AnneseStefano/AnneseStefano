@@ -15,7 +15,7 @@ Focused on growing toward junior technical support / internal IT / junior web ro
 
 **Tools:** XAMPP, FileZilla, Git, Matomo (web analytics)
 
-**Languages:** Italian (native), English (professional), Japanese (learning)
+**Languages:** Italian (native), English (professional), Japanese (learning (lvlN2))
 
 ## Projects
 
